@@ -1,0 +1,18 @@
+# Raw and derived well data are licensed by the Petroleum Agency SA and are NOT distributed
+data/*
+!data/README.md
+outputs/
+work/
+*.las
+*.LAS
+*.dlis
+*.DLIS
+*.lis
+*.LIS
+*.tif
+*.pdf
+*.csv
+*.xlsx
+*.zip
+__pycache__/
+.ipynb_checkpoints/
