@@ -5,6 +5,7 @@ authors:
   - family-names: Amaechi
     given-names: Paschal Ogechukwu
     affiliation: University of the Western Cape
+    orcid: "https://orcid.org/0000-0002-9754-0227"
   - family-names: Afolayan
     given-names: Blessing Ayotomiwa
     affiliation: Stellenbosch University
@@ -13,3 +14,5 @@ authors:
     affiliation: University of the Western Cape
 license: MIT
 repository-code: "https://github.com/pamaechi/fo-field-tight-gas-petrophysics"
+version: "1.0.0"
+date-released: "2026-11-19"

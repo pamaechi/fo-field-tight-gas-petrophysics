@@ -19,7 +19,7 @@ The deterministic steps (shale volume, porosity, porosity–permeability transfo
 | `petrotools/` | Library used by the notebooks: `saturation.py`, `petromodels.py`, `mineral.py`, `rocktype.py`, `shm.py` (datums, GWC), `pressure_extract.py`, `coretools.py`, `mlperm.py`, readers and QC plots. |
 | `scripts/petrography/` | Figure 11 of Paper 1 (thin-section and modal data). |
 | `scripts/residual_gas/` | Neutron–density residual-gas test (Paper 2, Section 5.1). |
-| `scripts/figures/` | Paper figure scripts. |
+| `scripts/figures/` | Paper figure scripts, including the QGIS location maps (Figure 1 of both papers; needs the georeferenced PetroSA depth map, which is not distributed) and the chronostratigraphic chart (Paper 1, Figure 2). |
 
 ## Running
 
