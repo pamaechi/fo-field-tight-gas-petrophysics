@@ -14,5 +14,6 @@ authors:
     affiliation: University of the Western Cape
 license: MIT
 repository-code: "https://github.com/pamaechi/fo-field-tight-gas-petrophysics"
+doi: 10.5281/zenodo.24359457
 version: "1.0.0"
 date-released: "2026-11-19"

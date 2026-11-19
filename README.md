@@ -1,5 +1,7 @@
 # F-O field tight-gas petrophysics workflow
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24359457.svg)](https://doi.org/10.5281/zenodo.24359457)
+
 Open-source Python workflow behind two companion papers on the F-O gas field, Bredasdorp Basin, offshore South Africa:
 
 1. Amaechi, P.O., Afolayan, B.A., Opuwari, M. *Diagenetic controls on permeability and net pay in a tight gas reservoir: an integrated core–log study of the F-O field, Bredasdorp Basin, offshore South Africa.* (submitted)
@@ -37,4 +39,4 @@ Some scripts in `scripts/composite_build/` were written for a single working ses
 
 ## Licence and citation
 
-Code: MIT licence (see `LICENSE`). Please cite the papers above and this repository (`CITATION.cff`; a Zenodo DOI will be added at release).
+Code: MIT licence (see `LICENSE`). Please cite the papers above and this repository: Amaechi, P.O., Afolayan, B.A., Opuwari, M., 2026. *F-O field tight-gas petrophysics: open-source workflow*, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24359457 (see also `CITATION.cff`).
